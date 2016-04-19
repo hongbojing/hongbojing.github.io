@@ -463,3 +463,8 @@ ul {
 .mobile #project.section {
   text-align: center
 }
+
+#profession .tag {
+  color: #ffffff;
+  background: #008323;
+}
